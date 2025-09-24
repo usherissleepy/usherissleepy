@@ -1,16 +1,19 @@
-## I did it 👋
+# Hi, I'm Ashar Zarrar 👋
 
-<!--
-**usherissleepy/usherissleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in NYC Queens → Raised in Queens → Currently in Queens.
+- Outside of work I like to play video games.
+- Let's connect via email: ashar.zarrar218@gmail.com
 
-Here are some ideas to get you started:
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- JavaScript
+
+### Frameworks & Libraries
+- Node.js
+
+### Tools
+- Git
+- GitHub
